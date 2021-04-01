@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Groupme Dark Theme",
+  "description": "Dark Theme for Groupme",
+  "version": "1.0",
+  "content_scripts": [{
+    "css": [
+      "style.css"
+    ],
+    "matches": [
+      "https://web.groupme.com/*"
+    ]
+  }]
+}
