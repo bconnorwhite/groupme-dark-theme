@@ -1,1 +1,1 @@
-groupme-dark-theme
+GroupMe Dark Theme Chrome Extension
